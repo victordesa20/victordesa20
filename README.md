@@ -4,7 +4,7 @@
 
 💡 Desenvolvedor front-end em formação.
 
-💻 Estudante de Ciência da Computação.
+💻 Graduado em Ciência da Computação.
 
 🚀 Metas de um bom emprego e novos projetos.
 
