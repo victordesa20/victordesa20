@@ -1,30 +1,38 @@
 # Hello World! <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
 
-<code><img height="20" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></code>
-<code><img height="20" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></code>
-<code><img height="20" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/Figma-FF69B4?style=for-the-badge&logo=figma&logoColor=white"></code>
+### Olá 👋🏾, me chamo Victor de Sá
 
+🧑🏾‍💻 Desenvolvedor **Front-end Júnior**.
 
-## Me chamo Victor de Sá
+🧑🏾‍🎓 Graduado em **Ciência da Computação**.
 
-💡 Desenvolvedor **Front-end** em formação.
-
-🧑🏾‍🎓 Recém-graduado em **Ciência da Computação**.
+🎨 UI Designer (portfólio em construção...)
 
 🎉 **TCC nota 10 !** (Trabalho de conclusão de curso).
 
-🚀 Metas de um bom emprego e novos projetos.
+🚀 Experiência em criação de landing pages responsivas.
 
-🎨 Estudando UI Designer (portfólio em contrução...).
+<br>
+
+### 💻 Ferramentas e tecnologias 
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victordesa20&layout=compact&theme=flag-india)](https://github.com/victordesa20/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=victordesa20&theme=flag-india&count_private=true&show_icons=true&hide=stars,prs,issues,contribs&card_width=400)](https://github.com/victordesa20/github-readme-stats)
 
-## Contato
+<br>
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victordesa20/)
-[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/victordesa20)
+### 👽 Entre em contato
 
-### Veja meus repositórios de estudos e volte sempre 😀
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victordesa20/)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/victordesa20)
+
+![CatLaptopGIF](https://user-images.githubusercontent.com/79595032/208745263-4fd8beff-db92-4310-9cfa-375484bdb9cd.gif)
+
+### Veja meus repositórios e volte sempre 😁
